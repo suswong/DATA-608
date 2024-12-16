@@ -1,51 +1,51 @@
-﻿Critical Mineral,Primary Applications
-Aluminum,Metallurgy and many sectors of the economy.
-Antimony,Flame retardants and lead-acid batteries.
-Arsenic,Pesticides and semiconductors.
-Barite,Hydrocarbon production.
-Beryllium,Aerospace and defense.
-Bismuth,"Medical, metallurgy, and atomic research."
-Cerium,"Catalytic converters, ceramics, glass, metallurgy, and polishing compounds."
-Cesium,Research and development.
-Chromium,Metallurgy.
-Cobalt,Batteries and metallurgy.
-Dysprosium,"Data storage devices, lasers, and permanent magnets."
-Erbium,"Fiber optics, glass colorant, lasers, and optical amplifiers."
-Europium,Nuclear control rods and phosphors.
-Fluorspar,"Cement, industrial chemicals, and metallurgy."
-Gadolinium,"Medical imaging, metallurgy, and permanent magnets."
-Gallium,Integrated circuits and optical devices.
-Germanium,Defense and fiber optics.
-Graphite,"Batteries, fuel cells, and lubricants."
-Hafnium,"Ceramics, nuclear control rods, and metallurgy."
-Holmium,"Lasers, nuclear control rods, and permanent magnets."
-Indium,Liquid crystal displays.
-Iridium,Anode coatings for electrochemical processes and chemical catalysts.
-Lanthanum,"Batteries, catalysts, ceramics, glass, and metallurgy."
-Lithium,Batteries.
-Lutetium,"Cancer therapies, electronics, and medical imaging."
-Magnesium,Metallurgy.
-Manganese,Batteries and metallurgy.
-Neodymium,"Catalysts, lasers, and permanent magnets."
-Nickel,Batteries and metallurgy.
-Niobium,Metallurgy.
-Palladium,Catalytic converters and catalysts.
-Platinum,Catalytic converters and catalysts.
-Praseodymium,"Aerospace alloys, batteries, ceramics, colorants, and permanent magnets."
-Rhodium,"Catalytic converters, catalysts, and electrical components."
-Rubidium,Research and development.
-Ruthenium,"Catalysts, electronic components, and computer chips."
-Samarium,"Cancer treatments, nuclear, and permanent magnets."
-Scandium,"Ceramics, fuel cells, and metallurgy."
-Tantalum,Capacitors and metallurgy.
-Tellurium,"Metallurgy, solar cells, and thermoelectric devices."
-Terbium,"Fiber optics, lasers, permanent magnets, and solid state devices."
-Thulium,Lasers and metallurgy.
-Tin,Metallurgy.
-Titanium,Metallurgy and pigments.
-Tungsten,Metallurgy.
-Vanadium,"Batteries, catalysts, and metallurgy."
-Ytterbium ,"Catalysts, lasers, metallurgy, and scintillators."
-Yttrium,"Catalysts, ceramics, lasers, metallurgy, and phosphors."
-Zinc,Metallurgy.
-Zirconium,Metallurgy and nuclear.
+﻿Critical Mineral,Primary Applications,Net_Import_Reliance_pct_2023
+Aluminum,Metallurgy and many sectors of the economy.,75
+Antimony,Flame retardants and lead-acid batteries.,82
+Arsenic,Pesticides and semiconductors.,100
+Barite,Hydrocarbon production.,75
+Beryllium,Aerospace and defense.,
+Bismuth,"Medical, metallurgy, and atomic research.",94
+Cerium,"Catalytic converters, ceramics, glass, metallurgy, and polishing compounds.",
+Cesium,Research and development.,100
+Chromium,Metallurgy.,74
+Cobalt,Batteries and metallurgy.,67
+Dysprosium,"Data storage devices, lasers, and permanent magnets.",
+Erbium,"Fiber optics, glass colorant, lasers, and optical amplifiers.",
+Europium,Nuclear control rods and phosphors.,
+Fluorspar,"Cement, industrial chemicals, and metallurgy.",100
+Gadolinium,"Medical imaging, metallurgy, and permanent magnets.",
+Gallium,Integrated circuits and optical devices.,100
+Germanium,Defense and fiber optics.,50
+Graphite,"Batteries, fuel cells, and lubricants.",100
+Hafnium,"Ceramics, nuclear control rods, and metallurgy.",
+Holmium,"Lasers, nuclear control rods, and permanent magnets.",
+Indium,Liquid crystal displays.,100
+Iridium,Anode coatings for electrochemical processes and chemical catalysts.,
+Lanthanum,"Batteries, catalysts, ceramics, glass, and metallurgy.",
+Lithium,Batteries.,25
+Lutetium,"Cancer therapies, electronics, and medical imaging.",
+Magnesium,Metallurgy.,52
+Manganese,Batteries and metallurgy.,50
+Neodymium,"Catalysts, lasers, and permanent magnets.",
+Nickel,Batteries and metallurgy.,57
+Niobium,Metallurgy.,100
+Palladium,Catalytic converters and catalysts.,37
+Platinum,Catalytic converters and catalysts.,83
+Praseodymium,"Aerospace alloys, batteries, ceramics, colorants, and permanent magnets.",
+Rhodium,"Catalytic converters, catalysts, and electrical components.",
+Rubidium,Research and development.,100
+Ruthenium,"Catalysts, electronic components, and computer chips.",
+Samarium,"Cancer treatments, nuclear, and permanent magnets.",
+Scandium,"Ceramics, fuel cells, and metallurgy.",100
+Tantalum,Capacitors and metallurgy.,100
+Tellurium,"Metallurgy, solar cells, and thermoelectric devices.",25
+Terbium,"Fiber optics, lasers, permanent magnets, and solid state devices.",
+Thulium,Lasers and metallurgy.,
+Tin,Metallurgy.,74
+Titanium,Metallurgy and pigments.,95
+Tungsten,Metallurgy.,50
+Vanadium,"Batteries, catalysts, and metallurgy.",58
+Ytterbium ,"Catalysts, lasers, metallurgy, and scintillators.",
+Yttrium,"Catalysts, ceramics, lasers, metallurgy, and phosphors.",100
+Zinc,Metallurgy.,77
+Zirconium,Metallurgy and nuclear.,25
