@@ -1,0 +1,32 @@
+﻿Critical_mineral,Primary_prod,Secondary_prod,Apparent_Consuption,Net_Import_Reliance,Source,Alliance
+Aluminum,W,0,1800000,75,Jamaica,Neutral
+Antimony,0,4000,22000,82,China,Competitor
+Arsenic,0,NA,6400,100,China,Competitor
+Barite,W,0,W,75,India,Neutral
+Beryllium,190,NA,150,NA,Kazakhstan,Neutral
+Bismuth,0,80,1400,94,China,Competitor
+Chromium,0,100000,380000,74,South Africa,Neutral
+Cobalt,500,2100,6400,67,Norway,Ally
+Fluorspar,NA,0,370000,100,Mexico,Ally
+Gallium,0,0,19,100,Japan,Ally
+Germanium,0,NA,NA,50,Belgium,Ally
+Graphite ,0,0,76000,100,China,Competitor
+Indium,0,0,300,100,Republic of Korea,Ally
+Lithium,W,NA,W,25,Argentina,Ally
+Magnesium,W,100000,55000,50,Canada,Ally
+Manganese,0,0,690000,100,Gabon,Neutral
+Nickel,17000,W,190000,57,Canada,Ally
+Niobium,0,NA,8400,100,Brazil,Competitor
+Palladium,10,42,82,37,Russia,Competitor
+Platinum,3,9,70,83,South Africa,Neutral
+Rare earths (compounds and metals),250,NA,8800,95,China,Competitor
+Scandium,0,0,NA,100,Japan,Ally
+Tantalum,0,NA,370,100,China,Competitor
+Tellurium,W,0,W,25,Canada,Ally
+Tin,0,16900,39000,74,Peru,Ally
+Titanium ,W,W,42000,95,Japan,Ally
+Tungsten,0,W,W,50,China,Competitor
+Vanadium,0,5700,14000,58,Canada,Ally
+Yttrium,NA,0,200,100,China,Competitor
+Zinc,220000,NA,970000,77,Canada,Ally
+Zirconium ,"<100,000",NA,"100,000",25,South Africa,Neutral
